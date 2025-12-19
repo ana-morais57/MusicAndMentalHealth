@@ -1,7 +1,12 @@
 # Music Preferences & Mental Health: Insights from the MxMH Dataset 🎵🧠
 
+
 ## Project Overview
 This project explores the relationships between **music habits** and **mental health**, using the publicly available MxMH dataset from [Catherine Rasgaitis on Kaggle](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results). The analysis focuses on understanding how factors like favorite genres and listening hours per day correlate with self-reported mental health scores for anxiety, depression, insomnia, and OCD.
+
+## Context & Intent
+This project explores relationships between music listening habits and self-reported mental health experiences using data analysis as a tool for reflection and sense-making rather than diagnosis.
+The goal is not to draw clinical conclusions, but to examine patterns, discuss limitations, and reflect on how data can be interpreted thoughtfully when working with sensitive topics such as wellbeing.
 
 ## Key Features
 - **Data Cleaning**:
